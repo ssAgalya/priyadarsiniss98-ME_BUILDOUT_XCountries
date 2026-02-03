@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-function Countries() {
+function App() {
   const [countries, setCountries] = useState([]);
 
   useEffect(() => {
@@ -72,4 +72,4 @@ function Countries() {
   );
 }
 
-export default Countries;
+export default App;
