@@ -39,16 +39,7 @@ function App() {
     objectFit: "contain"
   };
 
-  const placeholderStyle = {
-    width: "120px",
-    height: "80px",
-    display: "flex",
-    alignItems: "center",
-    justifyContent: "center",
-    backgroundColor: "#f6f6f6",
-    color: "#777",
-   
-  };
+
 
  
 
